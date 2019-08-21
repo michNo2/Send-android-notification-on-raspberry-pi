@@ -3,7 +3,8 @@ Active une led RGB sur un raspberry pi lors de la réception d'un message sur vo
 
 Utilise l'application "automate" sur android pour envoyer des requêtes http au raspberry lors de la réception d'un message.
 Le fichier .flo est la configuration automate
-
+ 
+********************************************** 
 
 Allows you to activate a rgb led connected to the raspberry when a notification is received on the phone.
 
