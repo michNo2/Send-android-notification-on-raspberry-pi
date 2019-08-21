@@ -6,7 +6,7 @@ Active une led RGB sur un raspberry pi lors de la réception d'un message sur vo
 Ce programme permet d'activer une led rgb branché sur le raspberry lorsque une notification est reçu sur le téléphone.
 Il y a deux parties :
  Un script python qui tourne sur le raspberrt
- Une configuration de l'application qui tourne sur le téléphone
+ Une configuration de l'application "automate" qui tourne sur le téléphone
  
 La led s'allume 2 secondes pour chauqe appli envoyant une notification puis s'éteint 4 secondes;
 Au démarrage de ce script la led clignote 5 fois (en blanc)
