@@ -40,7 +40,7 @@ At starting the python script the led flashes 5 times (in white)
 When starting the app on the phone, the led lights up 5 seconds (in orange)
 when the phone is connected, every 5 minutes (approx.) the led lights up in orange for 5 seconds.
 
-TECHNICAL DETAIL ON THE SCRIPT (to read before modifying especially on the delay) :
+TECHNICAL DETAIL ON THE SCRIPT 
 
 The android "automate" application is used on the phone to send http requests to this script
 In "automate":
